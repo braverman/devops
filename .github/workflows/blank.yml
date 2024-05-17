@@ -31,4 +31,4 @@ jobs:
 
       # Runs a single command using the runners shell
       - name: Other echoes
-        run: echo Let's test new branch with changes.
+        run: echo Test new branch with changes.

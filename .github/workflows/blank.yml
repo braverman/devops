@@ -28,3 +28,7 @@ jobs:
       # Runs a single command using the runners shell
       - name: Run a one-line script
         run: echo DevOps rulez!
+
+      # Runs a single command using the runners shell
+      - name: Other echoes
+        run: echo Let's test new branch with changes.
